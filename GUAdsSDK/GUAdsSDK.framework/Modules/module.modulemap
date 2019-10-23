@@ -1,0 +1,6 @@
+framework module GUAdsSDK {
+  umbrella header "GUAdsSDK.h"
+
+  export *
+  module * { export * }
+}
